@@ -26,3 +26,6 @@ console.log( result );
 ```
 ## Work experience:
 * [www.3dkazakov.ru](https://3dkazakov.ru)
+## Languages:
+* Russian - native speaker
+* English - A1 (A2 in process)
