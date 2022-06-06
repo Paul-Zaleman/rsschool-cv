@@ -5,3 +5,5 @@
 * **E-mail:** info@kazakovms.ru
 * **Discord:** [MaxKazakov#7320](https://discordapp.com/users/750983706658865172)
 * **Telegram:** [Maks_Kazakov](https://t.me/maks_kazakov)
+## About Me:
+I am 42 years old, I work as the head of the lubricants sales department. I am currently studying at RS school. I'm planning to create an app for sales reps. I want to learn how to be an interface developer
