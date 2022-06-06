@@ -15,3 +15,12 @@ I am 42 years old, I work as the head of the lubricants sales department. I am c
 * Photoshop
 * Adobe Illustrator
 * 3D Max
+## Code Examples:
+```javascript
+function div(x, y) {
+  return x / y;
+}
+
+let result = div(12, 4);
+console.log( result );
+```
