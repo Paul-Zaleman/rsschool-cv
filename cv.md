@@ -24,3 +24,5 @@ function div(x, y) {
 let result = div(12, 4);
 console.log( result );
 ```
+## Work experience:
+* [www.3dkazakov.ru](https://3dkazakov.ru)
